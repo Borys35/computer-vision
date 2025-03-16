@@ -205,6 +205,7 @@ CMakeFiles/computer_vision.dir/main.cpp.o
  /usr/include/opencv4/opencv2/core/base.hpp
  /usr/include/opencv4/opencv2/core/bufferpool.hpp
  /usr/include/opencv4/opencv2/core/check.hpp
+ /usr/include/opencv4/opencv2/core/core.hpp
  /usr/include/opencv4/opencv2/core/cv_cpu_dispatch.h
  /usr/include/opencv4/opencv2/core/cvdef.h
  /usr/include/opencv4/opencv2/core/cvstd.hpp

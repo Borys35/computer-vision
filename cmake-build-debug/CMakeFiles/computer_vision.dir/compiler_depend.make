@@ -204,6 +204,7 @@ CMakeFiles/computer_vision.dir/main.cpp.o: /home/borys/cpp_projects/computer_vis
   /usr/include/opencv4/opencv2/core/base.hpp \
   /usr/include/opencv4/opencv2/core/bufferpool.hpp \
   /usr/include/opencv4/opencv2/core/check.hpp \
+  /usr/include/opencv4/opencv2/core/core.hpp \
   /usr/include/opencv4/opencv2/core/cv_cpu_dispatch.h \
   /usr/include/opencv4/opencv2/core/cvdef.h \
   /usr/include/opencv4/opencv2/core/cvstd.hpp \
@@ -653,6 +654,10 @@ CMakeFiles/computer_vision.dir/main.cpp.o: /home/borys/cpp_projects/computer_vis
 
 /usr/include/c++/13/iosfwd:
 
+/usr/include/x86_64-linux-gnu/bits/flt-eval-method.h:
+
+/usr/include/c++/13/bits/streambuf_iterator.h:
+
 /usr/include/c++/13/ostream:
 
 /usr/include/c++/13/bits/cpp_type_traits.h:
@@ -782,10 +787,6 @@ CMakeFiles/computer_vision.dir/main.cpp.o: /home/borys/cpp_projects/computer_vis
 /usr/include/c++/13/cerrno:
 
 /usr/include/c++/13/bits/localefwd.h:
-
-/usr/include/c++/13/bits/streambuf_iterator.h:
-
-/usr/include/x86_64-linux-gnu/bits/flt-eval-method.h:
 
 /usr/include/c++/13/bits/cxxabi_init_exception.h:
 
@@ -986,6 +987,8 @@ CMakeFiles/computer_vision.dir/main.cpp.o: /home/borys/cpp_projects/computer_vis
 /usr/include/c++/13/debug/debug.h:
 
 /usr/include/linux/errno.h:
+
+/usr/include/opencv4/opencv2/core/core.hpp:
 
 /usr/include/c++/13/ratio:
 
