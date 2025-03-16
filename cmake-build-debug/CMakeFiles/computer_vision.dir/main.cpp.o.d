@@ -296,4 +296,5 @@ CMakeFiles/computer_vision.dir/main.cpp.o: \
  /usr/include/opencv4/opencv2/imgproc/segmentation.hpp \
  /usr/include/opencv4/opencv2/imgproc.hpp \
  /usr/include/opencv4/opencv2/videoio.hpp \
- /usr/include/opencv4/opencv2/core/mat.hpp
+ /usr/include/opencv4/opencv2/core/mat.hpp \
+ /usr/include/opencv4/opencv2/core/types.hpp
